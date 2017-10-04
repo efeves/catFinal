@@ -1,0 +1,41 @@
+body{
+	background-color:#e3e4df;
+}
+
+.dingus{
+	content: url(hatol.gif);
+	height: 90vh;
+	width:60%;
+}
+
+.client{
+
+}
+
+.textbox{
+	background-color:#347c96;
+	display:inline-table;
+	padding:0.05vw;
+	width:20vw;
+	height:50vh;
+}
+
+.space{
+	background-color:#e3e4df;
+	display:inline-table;
+}
+
+
+@media (max-width: 750px){
+	
+	body{
+		display:block;
+	}
+	
+	.rainbowKet{
+		height: 45vh;
+		width: 80%;
+		margin:auto;
+		padding:2%;
+	}
+}
