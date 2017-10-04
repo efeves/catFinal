@@ -15,7 +15,7 @@ body{
 .textbox{
 	background-color:#347c96;
 	display:inline-table;
-	padding:0.15vw;
+	padding:0.05vw;
 	width:20vw;
 	height:50vh;
 }
@@ -32,7 +32,7 @@ body{
 		display:block;
 	}
 	
-	.rainbowKet{
+	.dingus{
 		height: 45vh;
 		width: 80%;
 		margin:auto;
