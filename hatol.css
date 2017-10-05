@@ -25,6 +25,9 @@ body{
 	width: 20vw;
 }
 
+.smit{
+	content: url(ElizabethSmit.png);
+}
 
 @media (max-width: 750px){
 	
