@@ -27,6 +27,8 @@ body{
 
 .smit{
 	content: url(ElizabethSmit.png);
+	width:80%;
+	height:80%;
 }
 
 @media (max-width: 750px){
