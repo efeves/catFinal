@@ -1,7 +1,7 @@
 body{
 	background-color:#e3e4df;
 }
-
+@media (min-width:751px)
 .dingus{
 	content: url(hatol.gif);
 	height: 90vh;
