@@ -12,8 +12,9 @@ body{
 	height: 10vh;
 }
 
-.client{
-
+.smit{
+	width:50%;
+	height:50%;
 }
 
 .textbox{
