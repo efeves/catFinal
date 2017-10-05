@@ -19,12 +19,6 @@ body{
 	height:50vh;
 }
 
-.smit{
-	width:45%;
-	height:45%;
-	content: url(ElizabethSmit.png)
-}
-
 .space{
 	background-color:#e3e4df;
 	display:inline-table;
