@@ -12,17 +12,17 @@ body{
 	height: 10vh;
 }
 
-.smit{
-	width:45%;
-	height:45%;
-	content: url(ElizabethSmit.png)
-}
-
 .textbox{
 	background-color:#347c96;
 	display:inline-table;
 	width:25vw;
 	height:50vh;
+}
+
+.smit{
+	width:45%;
+	height:45%;
+	content: url(ElizabethSmit.png)
 }
 
 .space{
