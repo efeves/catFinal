@@ -1,31 +1,32 @@
 body{
 	background-color:#e3e4df;
 }
-@media (min-width:751px)
-.dingus{
-	content: url(hatol.gif);
-	height: 90vh;
-	width:60%;
-}
+@media (min-width:751px){
+	.dingus{
+		content: url(hatol.gif);
+		height: 90vh;
+		width:60%;
+	}
 
-.gap{
-	height: 10vh;
-}
+	.gap{
+		height: 10vh;
+	}
 
-.textbox{
-	background-color:#347c96;
-	display:inline-table;
-	width:25vw;
-	height:70vh;
-	box-shadow:7px 7px 35px;
-}
+	.textbox{
+		background-color:#347c96;
+		display:inline-table;
+		width:25vw;
+		height:70vh;
+		box-shadow:7px 7px 35px;
+	}
 
-.textbox2{
-	background-color:#347c96;
-	display:inline-table;
-	width:25vw;
-	height:81.5vh;
-	box-shadow:7px 7px 35px;
+	.textbox2{
+		background-color:#347c96;
+		display:inline-table;
+		width:25vw;
+		height:81.5vh;
+		box-shadow:7px 7px 35px;
+	}
 }
 
 .space{
