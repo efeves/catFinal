@@ -17,6 +17,7 @@ body{
 	display:inline-table;
 	width:25vw;
 	height:120vh;
+	box-shadow:7px 7px 35px;
 }
 
 .space{
