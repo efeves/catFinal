@@ -36,7 +36,6 @@ body{
 
 .smit{
 	content: url(ElizabethSmit.png);
-	width: 90vw;
 }
 
 .item{
@@ -53,8 +52,9 @@ body{
 		height: 50vh;
 		width: 100vw;
 		margin:auto;
-		padding:2%;
+		padding:35%;
 	}
+	
 	
 	.textbox{
 		width:80vw;
