@@ -50,6 +50,7 @@ body{
 	}
 	
 	.dingus{
+		content: url(hatol.gif);
 		height: 50vh;
 		width: 100vw;
 		margin:auto;
